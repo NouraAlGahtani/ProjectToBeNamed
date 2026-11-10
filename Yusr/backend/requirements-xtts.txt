@@ -1,0 +1,4 @@
+# Optional voice dependency. XTTS support on Apple Silicon depends on the
+# Python/PyTorch/Coqui TTS versions supported by your checkpoint.
+TTS
+numpy
